@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  web:
+    container_name: video
+    image: video
+    build: ./
+    command: python predict_test.py
+    volumes:
+      - .:/
+    ports:
+      - 5000:5000
