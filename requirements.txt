@@ -1,5 +1,5 @@
 joblib==1.2.0
-keras==2.9.0
+keras==2.13.1
 numpy==1.22.0
 opencv_python==4.6.0.66
 tensorflow==2.11.1
