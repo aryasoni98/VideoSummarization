@@ -1,6 +1,6 @@
 joblib==1.2.0
 keras==2.9.0
 numpy==1.22.0
-opencv_python==4.6.0.66
+opencv_python==4.8.1.78
 tensorflow==2.11.1
 tqdm==4.66.3
